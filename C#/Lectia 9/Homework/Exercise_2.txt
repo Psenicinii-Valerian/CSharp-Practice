@@ -1,0 +1,2 @@
+^\+373(6|7)[0-9]{7}$
+https://regex101.com/r/mqScMx/1

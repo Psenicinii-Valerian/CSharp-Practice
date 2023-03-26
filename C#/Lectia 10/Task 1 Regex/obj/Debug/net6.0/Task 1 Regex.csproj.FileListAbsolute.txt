@@ -1,0 +1,15 @@
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 10\Task 1 Regex\bin\Debug\net6.0\Task 1 Regex.exe
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 10\Task 1 Regex\bin\Debug\net6.0\Task 1 Regex.deps.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 10\Task 1 Regex\bin\Debug\net6.0\Task 1 Regex.runtimeconfig.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 10\Task 1 Regex\bin\Debug\net6.0\Task 1 Regex.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 10\Task 1 Regex\bin\Debug\net6.0\Task 1 Regex.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 10\Task 1 Regex\obj\Debug\net6.0\Task 1 Regex.csproj.AssemblyReference.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 10\Task 1 Regex\obj\Debug\net6.0\Task 1 Regex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 10\Task 1 Regex\obj\Debug\net6.0\Task 1 Regex.AssemblyInfoInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 10\Task 1 Regex\obj\Debug\net6.0\Task 1 Regex.AssemblyInfo.cs
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 10\Task 1 Regex\obj\Debug\net6.0\Task 1 Regex.csproj.CoreCompileInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 10\Task 1 Regex\obj\Debug\net6.0\Task 1 Regex.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 10\Task 1 Regex\obj\Debug\net6.0\refint\Task 1 Regex.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 10\Task 1 Regex\obj\Debug\net6.0\Task 1 Regex.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 10\Task 1 Regex\obj\Debug\net6.0\Task 1 Regex.genruntimeconfig.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 10\Task 1 Regex\obj\Debug\net6.0\ref\Task 1 Regex.dll

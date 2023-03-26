@@ -1,0 +1,15 @@
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 8\Classwork cu fisiere\Classwork cu fisiere\bin\Debug\net6.0\Classwork cu fisiere.exe
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 8\Classwork cu fisiere\Classwork cu fisiere\bin\Debug\net6.0\Classwork cu fisiere.deps.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 8\Classwork cu fisiere\Classwork cu fisiere\bin\Debug\net6.0\Classwork cu fisiere.runtimeconfig.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 8\Classwork cu fisiere\Classwork cu fisiere\bin\Debug\net6.0\Classwork cu fisiere.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 8\Classwork cu fisiere\Classwork cu fisiere\bin\Debug\net6.0\Classwork cu fisiere.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 8\Classwork cu fisiere\Classwork cu fisiere\obj\Debug\net6.0\Classwork cu fisiere.csproj.AssemblyReference.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 8\Classwork cu fisiere\Classwork cu fisiere\obj\Debug\net6.0\Classwork cu fisiere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 8\Classwork cu fisiere\Classwork cu fisiere\obj\Debug\net6.0\Classwork cu fisiere.AssemblyInfoInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 8\Classwork cu fisiere\Classwork cu fisiere\obj\Debug\net6.0\Classwork cu fisiere.AssemblyInfo.cs
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 8\Classwork cu fisiere\Classwork cu fisiere\obj\Debug\net6.0\Classwork cu fisiere.csproj.CoreCompileInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 8\Classwork cu fisiere\Classwork cu fisiere\obj\Debug\net6.0\Classwork cu fisiere.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 8\Classwork cu fisiere\Classwork cu fisiere\obj\Debug\net6.0\refint\Classwork cu fisiere.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 8\Classwork cu fisiere\Classwork cu fisiere\obj\Debug\net6.0\Classwork cu fisiere.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 8\Classwork cu fisiere\Classwork cu fisiere\obj\Debug\net6.0\Classwork cu fisiere.genruntimeconfig.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 8\Classwork cu fisiere\Classwork cu fisiere\obj\Debug\net6.0\ref\Classwork cu fisiere.dll

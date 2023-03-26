@@ -1,0 +1,15 @@
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Tema pentru acasa\Sarcina_3\Sarcina_3\bin\Debug\net6.0\Sarcina_3.exe
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Tema pentru acasa\Sarcina_3\Sarcina_3\bin\Debug\net6.0\Sarcina_3.deps.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Tema pentru acasa\Sarcina_3\Sarcina_3\bin\Debug\net6.0\Sarcina_3.runtimeconfig.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Tema pentru acasa\Sarcina_3\Sarcina_3\bin\Debug\net6.0\Sarcina_3.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Tema pentru acasa\Sarcina_3\Sarcina_3\bin\Debug\net6.0\Sarcina_3.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Tema pentru acasa\Sarcina_3\Sarcina_3\obj\Debug\net6.0\Sarcina_3.csproj.AssemblyReference.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Tema pentru acasa\Sarcina_3\Sarcina_3\obj\Debug\net6.0\Sarcina_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Tema pentru acasa\Sarcina_3\Sarcina_3\obj\Debug\net6.0\Sarcina_3.AssemblyInfoInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Tema pentru acasa\Sarcina_3\Sarcina_3\obj\Debug\net6.0\Sarcina_3.AssemblyInfo.cs
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Tema pentru acasa\Sarcina_3\Sarcina_3\obj\Debug\net6.0\Sarcina_3.csproj.CoreCompileInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Tema pentru acasa\Sarcina_3\Sarcina_3\obj\Debug\net6.0\Sarcina_3.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Tema pentru acasa\Sarcina_3\Sarcina_3\obj\Debug\net6.0\refint\Sarcina_3.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Tema pentru acasa\Sarcina_3\Sarcina_3\obj\Debug\net6.0\Sarcina_3.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Tema pentru acasa\Sarcina_3\Sarcina_3\obj\Debug\net6.0\Sarcina_3.genruntimeconfig.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Tema pentru acasa\Sarcina_3\Sarcina_3\obj\Debug\net6.0\ref\Sarcina_3.dll

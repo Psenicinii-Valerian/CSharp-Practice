@@ -1,0 +1,30 @@
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Sarcina_1\Sarcina_1\bin\Debug\net6.0\Sarcina_1.exe
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Sarcina_1\Sarcina_1\bin\Debug\net6.0\Sarcina_1.deps.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Sarcina_1\Sarcina_1\bin\Debug\net6.0\Sarcina_1.runtimeconfig.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Sarcina_1\Sarcina_1\bin\Debug\net6.0\Sarcina_1.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Sarcina_1\Sarcina_1\bin\Debug\net6.0\Sarcina_1.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Sarcina_1\Sarcina_1\obj\Debug\net6.0\Sarcina_1.csproj.AssemblyReference.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Sarcina_1\Sarcina_1\obj\Debug\net6.0\Sarcina_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Sarcina_1\Sarcina_1\obj\Debug\net6.0\Sarcina_1.AssemblyInfoInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Sarcina_1\Sarcina_1\obj\Debug\net6.0\Sarcina_1.AssemblyInfo.cs
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Sarcina_1\Sarcina_1\obj\Debug\net6.0\Sarcina_1.csproj.CoreCompileInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Sarcina_1\Sarcina_1\obj\Debug\net6.0\Sarcina_1.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Sarcina_1\Sarcina_1\obj\Debug\net6.0\refint\Sarcina_1.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Sarcina_1\Sarcina_1\obj\Debug\net6.0\Sarcina_1.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Sarcina_1\Sarcina_1\obj\Debug\net6.0\Sarcina_1.genruntimeconfig.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Sarcina_1\Sarcina_1\obj\Debug\net6.0\ref\Sarcina_1.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Tema pentru acasa\Sarcina_1\Sarcina_1\bin\Debug\net6.0\Sarcina_1.exe
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Tema pentru acasa\Sarcina_1\Sarcina_1\bin\Debug\net6.0\Sarcina_1.deps.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Tema pentru acasa\Sarcina_1\Sarcina_1\bin\Debug\net6.0\Sarcina_1.runtimeconfig.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Tema pentru acasa\Sarcina_1\Sarcina_1\bin\Debug\net6.0\Sarcina_1.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Tema pentru acasa\Sarcina_1\Sarcina_1\bin\Debug\net6.0\Sarcina_1.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Tema pentru acasa\Sarcina_1\Sarcina_1\obj\Debug\net6.0\Sarcina_1.csproj.AssemblyReference.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Tema pentru acasa\Sarcina_1\Sarcina_1\obj\Debug\net6.0\Sarcina_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Tema pentru acasa\Sarcina_1\Sarcina_1\obj\Debug\net6.0\Sarcina_1.AssemblyInfoInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Tema pentru acasa\Sarcina_1\Sarcina_1\obj\Debug\net6.0\Sarcina_1.AssemblyInfo.cs
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Tema pentru acasa\Sarcina_1\Sarcina_1\obj\Debug\net6.0\Sarcina_1.csproj.CoreCompileInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Tema pentru acasa\Sarcina_1\Sarcina_1\obj\Debug\net6.0\Sarcina_1.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Tema pentru acasa\Sarcina_1\Sarcina_1\obj\Debug\net6.0\refint\Sarcina_1.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Tema pentru acasa\Sarcina_1\Sarcina_1\obj\Debug\net6.0\Sarcina_1.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Tema pentru acasa\Sarcina_1\Sarcina_1\obj\Debug\net6.0\Sarcina_1.genruntimeconfig.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Tema pentru acasa\Sarcina_1\Sarcina_1\obj\Debug\net6.0\ref\Sarcina_1.dll

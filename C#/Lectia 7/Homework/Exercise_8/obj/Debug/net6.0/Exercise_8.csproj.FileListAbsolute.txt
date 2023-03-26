@@ -1,0 +1,15 @@
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 7\Homework\Exercise_8\obj\Debug\net6.0\Exercise_8.csproj.AssemblyReference.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 7\Homework\Exercise_8\obj\Debug\net6.0\Exercise_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 7\Homework\Exercise_8\obj\Debug\net6.0\Exercise_8.AssemblyInfoInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 7\Homework\Exercise_8\obj\Debug\net6.0\Exercise_8.AssemblyInfo.cs
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 7\Homework\Exercise_8\obj\Debug\net6.0\Exercise_8.csproj.CoreCompileInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 7\Homework\Exercise_8\bin\Debug\net6.0\Exercise_8.exe
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 7\Homework\Exercise_8\bin\Debug\net6.0\Exercise_8.deps.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 7\Homework\Exercise_8\bin\Debug\net6.0\Exercise_8.runtimeconfig.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 7\Homework\Exercise_8\bin\Debug\net6.0\Exercise_8.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 7\Homework\Exercise_8\bin\Debug\net6.0\Exercise_8.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 7\Homework\Exercise_8\obj\Debug\net6.0\Exercise_8.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 7\Homework\Exercise_8\obj\Debug\net6.0\refint\Exercise_8.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 7\Homework\Exercise_8\obj\Debug\net6.0\Exercise_8.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 7\Homework\Exercise_8\obj\Debug\net6.0\Exercise_8.genruntimeconfig.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 7\Homework\Exercise_8\obj\Debug\net6.0\ref\Exercise_8.dll

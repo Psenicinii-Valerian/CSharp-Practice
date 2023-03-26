@@ -1,0 +1,201 @@
+using System;
+
+class Program
+{
+    public static void Main(string[] args)
+    {
+        /*
+           int a = 10; //-2.6 mlrd 2.6mlrd
+           float b = 8.6423F;
+           double c = 9.48412412;
+           char d = 'd';
+           string e = "Hello world!";
+           bool x = false;
+         */
+
+        // 1
+        // double a = 11.1;
+        // double b = 22.2;
+        // double c = 33.3;
+        // Console.WriteLine("Media = " + (a+b+c)/3);
+
+        // // 2
+        // string first = "John";
+        // string second = "Peter";
+        // string third = "Mike";
+        // Console.WriteLine(first + '-' + second + '-' + third);
+
+        // // 3
+        // int age = 32;
+        // string name = "Daniel";
+        // Console.WriteLine(name + ' ' + age);
+
+        // Console.Write("-> ");
+        // int a = Convert.ToInt32(Console.ReadLine());
+        // Console.Write("-> ");
+        // int b = Convert.ToInt32(Console.ReadLine());
+        // int sum = a+b;
+        // Console.WriteLine("Sum -> " + sum);
+
+        // Console.Write("-> ");
+        // double x = Convert.ToDouble(Console.ReadLine());
+        // Console.WriteLine(x * 10.55);
+
+        // char y = Console.ReadLine()[0];
+        // Console.WriteLine(y);
+
+        // bool y = Convert.ToBoolean(Console.ReadLine());
+        // Console.WriteLine(y);
+
+        /*
+          1. De la tastatura cititi numele unei persoane. Afisati in                       consola: "Salut " + nume;
+          2. Cititi trei numere de la tastatura. Afisati suma numerelor.
+          3. Cititi cinci numere de la tastatura. Afisati media aritmetica.
+          4. Cititi 2 stringuri, nume & prenume. Afisati nume si prenume                 separat prin ---
+          5. Cititi 3 double, inmultiti primul double cu 3, al doilea cu 2.5,             al treilea cu 10.25. Afisati valorile in consola
+          6. Cititi un char. Afisati charul.
+        */
+
+        //   // 1
+        //   Console.WriteLine("Ex 1");
+        //   string name = Console.ReadLine();
+        //   Console.WriteLine("Salut " + name);
+        //   Console.WriteLine("");
+
+        //   // 2
+        //   Console.WriteLine("Ex 2");
+        //   int a = Convert.ToInt32(Console.ReadLine());
+        //   int b = Convert.ToInt32(Console.ReadLine());
+        //   int c = Convert.ToInt32(Console.ReadLine());
+        //   Console.WriteLine("Suma = " + (a+b+c));
+        //   Console.WriteLine("");
+
+        //   // 3
+        //   Console.WriteLine("Ex 3");
+        //   double first = Convert.ToDouble(Console.ReadLine());
+        //   double second = Convert.ToDouble(Console.ReadLine());
+        //   double third = Convert.ToDouble(Console.ReadLine());
+        //   double fourth = Convert.ToDouble(Console.ReadLine());
+        //   double fifth = Convert.ToDouble(Console.ReadLine());
+        //   Console.WriteLine("Media = " + ((first+second+third+fourth+fifth)/5));
+        //   Console.WriteLine("");
+
+        //   // 4
+        //   Console.WriteLine("Ex 4");
+        //   string nameOther = Console.ReadLine();
+        //   string surname = Console.ReadLine();
+        //   Console.WriteLine(surname + "---" + nameOther);
+        //   Console.WriteLine("");
+
+        //   // 5
+        //   Console.WriteLine("Ex 5");
+        //   double one = Convert.ToDouble(Console.ReadLine());
+        //   Console.WriteLine(one + " * " + "3 " + " = " + (one*3));
+        //   double two = Convert.ToDouble(Console.ReadLine());
+        //   Console.WriteLine(two + " * " + "2.5 " + " = " + (two*2.5));
+        //   double three = Convert.ToDouble(Console.ReadLine());
+        //   Console.WriteLine(three + " * " + "10.25 " + " = " + (three*10.25));
+        //   Console.WriteLine("");
+
+        //   // 6
+        //   Console.WriteLine("Ex 6");
+        //   char ch = Console.ReadLine()[0];
+        //   Console.WriteLine(ch);   
+        //   Console.WriteLine("");
+        // }
+
+        Console.WriteLine("1:");
+        int age, money, ticketPrice;
+        Console.Write("Dati filmul:");
+        string movie = Console.ReadLine();
+        if (movie == "Cars") ticketPrice = 200;
+        else if (movie == "Venom") ticketPrice = 250;
+        else ticketPrice = 150;
+
+        Console.Write("Dati varsta:");
+        age = Convert.ToInt32(Console.ReadLine());
+
+        Console.Write("Dati numarul de bani:");
+        money = Convert.ToInt32(Console.ReadLine());
+
+        if (age >= 18 && money >= ticketPrice) Console.WriteLine("Poti viziona filmul!");
+        else if (age >= 18 && money <= ticketPrice) Console.WriteLine("Nu ai destuli bani.");
+        else Console.WriteLine("Nu poti viziona filmul!");
+
+        Console.WriteLine("2:");
+        int a = Convert.ToInt32(Console.ReadLine());
+        int b = Convert.ToInt32(Console.ReadLine());
+        int c = Convert.ToInt32(Console.ReadLine());
+
+        if (a >= b && a >= c) Console.WriteLine($"A:{a} este maxim");
+        else if (b >= a && b >= c) Console.WriteLine($"B:{b} este maxim");
+        else Console.WriteLine($"C:{c} este maxim");
+
+        if (a <= b && a <= c) Console.WriteLine($"A:{a} este minim");
+        else if (b <= a && b <= c) Console.WriteLine($"B:{b} este minim");
+        else Console.WriteLine($"C:{c} este minim");
+
+        Console.WriteLine("3:");
+        char gender = Console.ReadLine()[0];
+        string name = Console.ReadLine();
+
+        if (gender == 'm') Console.WriteLine($"Hi! {name}. You are a man!");
+        else Console.WriteLine($"Hi! {name}. You are a woman!");
+
+
+        Console.WriteLine("4:");
+        int distance = Convert.ToInt32(Console.ReadLine());
+        bool rain = Convert.ToBoolean(Console.ReadLine());
+
+        if (rain) Console.WriteLine($"Price: {distance * 25.45} MDL.");
+        else Console.WriteLine("Price: " + distance * 19.45 + " MDL.");
+
+        Console.WriteLine("5:");
+        int month = Convert.ToInt32(Console.ReadLine());
+        switch (month)
+        {
+            case 1:
+                Console.WriteLine("January");
+                break;
+            case 2:
+                Console.WriteLine("February");
+                break;
+            case 3:
+                Console.WriteLine("March");
+                break;
+            case 4:
+                Console.WriteLine("April");
+                break;
+            case 5:
+                Console.WriteLine("May");
+                break;
+            case 6:
+                Console.WriteLine("June");
+                break;
+            case 7:
+                Console.WriteLine("July");
+                break;
+            case 8:
+                Console.WriteLine("August");
+                break;
+            case 9:
+                Console.WriteLine("September");
+                break;
+            case 10:
+                Console.WriteLine("October");
+                break;
+            case 11:
+                Console.WriteLine("November");
+                break;
+            case 12:
+                Console.WriteLine("December");
+                break;
+
+            default:
+                Console.WriteLine("X");
+                break;
+        }
+
+
+
+    }

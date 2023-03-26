@@ -1,0 +1,15 @@
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 6\OOP Car class\OOP Car class\bin\Debug\net6.0\OOP Car class.exe
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 6\OOP Car class\OOP Car class\bin\Debug\net6.0\OOP Car class.deps.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 6\OOP Car class\OOP Car class\bin\Debug\net6.0\OOP Car class.runtimeconfig.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 6\OOP Car class\OOP Car class\bin\Debug\net6.0\OOP Car class.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 6\OOP Car class\OOP Car class\bin\Debug\net6.0\OOP Car class.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 6\OOP Car class\OOP Car class\obj\Debug\net6.0\OOP Car class.csproj.AssemblyReference.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 6\OOP Car class\OOP Car class\obj\Debug\net6.0\OOP Car class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 6\OOP Car class\OOP Car class\obj\Debug\net6.0\OOP Car class.AssemblyInfoInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 6\OOP Car class\OOP Car class\obj\Debug\net6.0\OOP Car class.AssemblyInfo.cs
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 6\OOP Car class\OOP Car class\obj\Debug\net6.0\OOP Car class.csproj.CoreCompileInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 6\OOP Car class\OOP Car class\obj\Debug\net6.0\OOP Car class.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 6\OOP Car class\OOP Car class\obj\Debug\net6.0\refint\OOP Car class.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 6\OOP Car class\OOP Car class\obj\Debug\net6.0\OOP Car class.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 6\OOP Car class\OOP Car class\obj\Debug\net6.0\OOP Car class.genruntimeconfig.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 6\OOP Car class\OOP Car class\obj\Debug\net6.0\ref\OOP Car class.dll

@@ -1,0 +1,15 @@
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 2\Cicluri\Cicluri\bin\Debug\net6.0\Cicluri.exe
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 2\Cicluri\Cicluri\bin\Debug\net6.0\Cicluri.deps.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 2\Cicluri\Cicluri\bin\Debug\net6.0\Cicluri.runtimeconfig.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 2\Cicluri\Cicluri\bin\Debug\net6.0\Cicluri.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 2\Cicluri\Cicluri\bin\Debug\net6.0\Cicluri.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 2\Cicluri\Cicluri\obj\Debug\net6.0\Cicluri.csproj.AssemblyReference.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 2\Cicluri\Cicluri\obj\Debug\net6.0\Cicluri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 2\Cicluri\Cicluri\obj\Debug\net6.0\Cicluri.AssemblyInfoInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 2\Cicluri\Cicluri\obj\Debug\net6.0\Cicluri.AssemblyInfo.cs
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 2\Cicluri\Cicluri\obj\Debug\net6.0\Cicluri.csproj.CoreCompileInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 2\Cicluri\Cicluri\obj\Debug\net6.0\Cicluri.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 2\Cicluri\Cicluri\obj\Debug\net6.0\refint\Cicluri.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 2\Cicluri\Cicluri\obj\Debug\net6.0\Cicluri.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 2\Cicluri\Cicluri\obj\Debug\net6.0\Cicluri.genruntimeconfig.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 2\Cicluri\Cicluri\obj\Debug\net6.0\ref\Cicluri.dll

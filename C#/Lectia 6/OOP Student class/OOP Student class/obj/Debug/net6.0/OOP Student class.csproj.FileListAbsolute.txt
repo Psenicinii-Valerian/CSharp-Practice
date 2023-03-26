@@ -1,0 +1,15 @@
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 6\OOP Student class\OOP Student class\bin\Debug\net6.0\OOP Student class.exe
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 6\OOP Student class\OOP Student class\bin\Debug\net6.0\OOP Student class.deps.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 6\OOP Student class\OOP Student class\bin\Debug\net6.0\OOP Student class.runtimeconfig.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 6\OOP Student class\OOP Student class\bin\Debug\net6.0\OOP Student class.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 6\OOP Student class\OOP Student class\bin\Debug\net6.0\OOP Student class.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 6\OOP Student class\OOP Student class\obj\Debug\net6.0\OOP Student class.csproj.AssemblyReference.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 6\OOP Student class\OOP Student class\obj\Debug\net6.0\OOP Student class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 6\OOP Student class\OOP Student class\obj\Debug\net6.0\OOP Student class.AssemblyInfoInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 6\OOP Student class\OOP Student class\obj\Debug\net6.0\OOP Student class.AssemblyInfo.cs
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 6\OOP Student class\OOP Student class\obj\Debug\net6.0\OOP Student class.csproj.CoreCompileInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 6\OOP Student class\OOP Student class\obj\Debug\net6.0\OOP Student class.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 6\OOP Student class\OOP Student class\obj\Debug\net6.0\refint\OOP Student class.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 6\OOP Student class\OOP Student class\obj\Debug\net6.0\OOP Student class.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 6\OOP Student class\OOP Student class\obj\Debug\net6.0\OOP Student class.genruntimeconfig.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 6\OOP Student class\OOP Student class\obj\Debug\net6.0\ref\OOP Student class.dll

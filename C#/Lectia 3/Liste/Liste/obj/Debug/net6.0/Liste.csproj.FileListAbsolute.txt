@@ -1,0 +1,15 @@
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 3\Liste\Liste\bin\Debug\net6.0\Liste.exe
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 3\Liste\Liste\bin\Debug\net6.0\Liste.deps.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 3\Liste\Liste\bin\Debug\net6.0\Liste.runtimeconfig.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 3\Liste\Liste\bin\Debug\net6.0\Liste.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 3\Liste\Liste\bin\Debug\net6.0\Liste.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 3\Liste\Liste\obj\Debug\net6.0\Liste.csproj.AssemblyReference.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 3\Liste\Liste\obj\Debug\net6.0\Liste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 3\Liste\Liste\obj\Debug\net6.0\Liste.AssemblyInfoInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 3\Liste\Liste\obj\Debug\net6.0\Liste.AssemblyInfo.cs
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 3\Liste\Liste\obj\Debug\net6.0\Liste.csproj.CoreCompileInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 3\Liste\Liste\obj\Debug\net6.0\Liste.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 3\Liste\Liste\obj\Debug\net6.0\refint\Liste.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 3\Liste\Liste\obj\Debug\net6.0\Liste.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 3\Liste\Liste\obj\Debug\net6.0\Liste.genruntimeconfig.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 3\Liste\Liste\obj\Debug\net6.0\ref\Liste.dll

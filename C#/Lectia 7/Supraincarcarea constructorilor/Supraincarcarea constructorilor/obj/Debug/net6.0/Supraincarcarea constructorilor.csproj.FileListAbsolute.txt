@@ -1,0 +1,15 @@
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 7\Supraincarcarea constructorilor\Supraincarcarea constructorilor\bin\Debug\net6.0\Supraincarcarea constructorilor.exe
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 7\Supraincarcarea constructorilor\Supraincarcarea constructorilor\bin\Debug\net6.0\Supraincarcarea constructorilor.deps.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 7\Supraincarcarea constructorilor\Supraincarcarea constructorilor\bin\Debug\net6.0\Supraincarcarea constructorilor.runtimeconfig.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 7\Supraincarcarea constructorilor\Supraincarcarea constructorilor\bin\Debug\net6.0\Supraincarcarea constructorilor.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 7\Supraincarcarea constructorilor\Supraincarcarea constructorilor\bin\Debug\net6.0\Supraincarcarea constructorilor.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 7\Supraincarcarea constructorilor\Supraincarcarea constructorilor\obj\Debug\net6.0\Supraincarcarea constructorilor.csproj.AssemblyReference.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 7\Supraincarcarea constructorilor\Supraincarcarea constructorilor\obj\Debug\net6.0\Supraincarcarea constructorilor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 7\Supraincarcarea constructorilor\Supraincarcarea constructorilor\obj\Debug\net6.0\Supraincarcarea constructorilor.AssemblyInfoInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 7\Supraincarcarea constructorilor\Supraincarcarea constructorilor\obj\Debug\net6.0\Supraincarcarea constructorilor.AssemblyInfo.cs
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 7\Supraincarcarea constructorilor\Supraincarcarea constructorilor\obj\Debug\net6.0\Supraincarcarea constructorilor.csproj.CoreCompileInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 7\Supraincarcarea constructorilor\Supraincarcarea constructorilor\obj\Debug\net6.0\Supraincarcarea constructorilor.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 7\Supraincarcarea constructorilor\Supraincarcarea constructorilor\obj\Debug\net6.0\refint\Supraincarcarea constructorilor.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 7\Supraincarcarea constructorilor\Supraincarcarea constructorilor\obj\Debug\net6.0\Supraincarcarea constructorilor.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 7\Supraincarcarea constructorilor\Supraincarcarea constructorilor\obj\Debug\net6.0\Supraincarcarea constructorilor.genruntimeconfig.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 7\Supraincarcarea constructorilor\Supraincarcarea constructorilor\obj\Debug\net6.0\ref\Supraincarcarea constructorilor.dll

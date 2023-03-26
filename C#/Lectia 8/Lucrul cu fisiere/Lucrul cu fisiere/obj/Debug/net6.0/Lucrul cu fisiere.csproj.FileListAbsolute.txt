@@ -1,0 +1,15 @@
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 8\Lucrul cu fisiere\Lucrul cu fisiere\bin\Debug\net6.0\Lucrul cu fisiere.exe
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 8\Lucrul cu fisiere\Lucrul cu fisiere\bin\Debug\net6.0\Lucrul cu fisiere.deps.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 8\Lucrul cu fisiere\Lucrul cu fisiere\bin\Debug\net6.0\Lucrul cu fisiere.runtimeconfig.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 8\Lucrul cu fisiere\Lucrul cu fisiere\bin\Debug\net6.0\Lucrul cu fisiere.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 8\Lucrul cu fisiere\Lucrul cu fisiere\bin\Debug\net6.0\Lucrul cu fisiere.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 8\Lucrul cu fisiere\Lucrul cu fisiere\obj\Debug\net6.0\Lucrul cu fisiere.csproj.AssemblyReference.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 8\Lucrul cu fisiere\Lucrul cu fisiere\obj\Debug\net6.0\Lucrul cu fisiere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 8\Lucrul cu fisiere\Lucrul cu fisiere\obj\Debug\net6.0\Lucrul cu fisiere.AssemblyInfoInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 8\Lucrul cu fisiere\Lucrul cu fisiere\obj\Debug\net6.0\Lucrul cu fisiere.AssemblyInfo.cs
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 8\Lucrul cu fisiere\Lucrul cu fisiere\obj\Debug\net6.0\Lucrul cu fisiere.csproj.CoreCompileInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 8\Lucrul cu fisiere\Lucrul cu fisiere\obj\Debug\net6.0\Lucrul cu fisiere.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 8\Lucrul cu fisiere\Lucrul cu fisiere\obj\Debug\net6.0\refint\Lucrul cu fisiere.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 8\Lucrul cu fisiere\Lucrul cu fisiere\obj\Debug\net6.0\Lucrul cu fisiere.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 8\Lucrul cu fisiere\Lucrul cu fisiere\obj\Debug\net6.0\Lucrul cu fisiere.genruntimeconfig.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 8\Lucrul cu fisiere\Lucrul cu fisiere\obj\Debug\net6.0\ref\Lucrul cu fisiere.dll

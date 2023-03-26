@@ -1,0 +1,15 @@
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Functii\Functii\bin\Debug\net6.0\Functii.exe
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Functii\Functii\bin\Debug\net6.0\Functii.deps.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Functii\Functii\bin\Debug\net6.0\Functii.runtimeconfig.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Functii\Functii\bin\Debug\net6.0\Functii.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Functii\Functii\bin\Debug\net6.0\Functii.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Functii\Functii\obj\Debug\net6.0\Functii.csproj.AssemblyReference.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Functii\Functii\obj\Debug\net6.0\Functii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Functii\Functii\obj\Debug\net6.0\Functii.AssemblyInfoInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Functii\Functii\obj\Debug\net6.0\Functii.AssemblyInfo.cs
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Functii\Functii\obj\Debug\net6.0\Functii.csproj.CoreCompileInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Functii\Functii\obj\Debug\net6.0\Functii.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Functii\Functii\obj\Debug\net6.0\refint\Functii.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Functii\Functii\obj\Debug\net6.0\Functii.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Functii\Functii\obj\Debug\net6.0\Functii.genruntimeconfig.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 4\Functii\Functii\obj\Debug\net6.0\ref\Functii.dll

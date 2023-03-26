@@ -1,0 +1,15 @@
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 10\Regex in CSharp\bin\Debug\net6.0\Regex in CSharp.exe
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 10\Regex in CSharp\bin\Debug\net6.0\Regex in CSharp.deps.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 10\Regex in CSharp\bin\Debug\net6.0\Regex in CSharp.runtimeconfig.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 10\Regex in CSharp\bin\Debug\net6.0\Regex in CSharp.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 10\Regex in CSharp\bin\Debug\net6.0\Regex in CSharp.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 10\Regex in CSharp\obj\Debug\net6.0\Regex in CSharp.csproj.AssemblyReference.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 10\Regex in CSharp\obj\Debug\net6.0\Regex in CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 10\Regex in CSharp\obj\Debug\net6.0\Regex in CSharp.AssemblyInfoInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 10\Regex in CSharp\obj\Debug\net6.0\Regex in CSharp.AssemblyInfo.cs
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 10\Regex in CSharp\obj\Debug\net6.0\Regex in CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 10\Regex in CSharp\obj\Debug\net6.0\Regex in CSharp.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 10\Regex in CSharp\obj\Debug\net6.0\refint\Regex in CSharp.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 10\Regex in CSharp\obj\Debug\net6.0\Regex in CSharp.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 10\Regex in CSharp\obj\Debug\net6.0\Regex in CSharp.genruntimeconfig.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 10\Regex in CSharp\obj\Debug\net6.0\ref\Regex in CSharp.dll
