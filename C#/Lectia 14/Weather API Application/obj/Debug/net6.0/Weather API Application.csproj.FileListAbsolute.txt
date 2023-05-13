@@ -1,0 +1,17 @@
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 14\Weather API Application\bin\Debug\net6.0\Weather API Application.exe
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 14\Weather API Application\bin\Debug\net6.0\Weather API Application.deps.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 14\Weather API Application\bin\Debug\net6.0\Weather API Application.runtimeconfig.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 14\Weather API Application\bin\Debug\net6.0\Weather API Application.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 14\Weather API Application\bin\Debug\net6.0\Weather API Application.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 14\Weather API Application\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 14\Weather API Application\obj\Debug\net6.0\Weather API Application.csproj.AssemblyReference.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 14\Weather API Application\obj\Debug\net6.0\Weather API Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 14\Weather API Application\obj\Debug\net6.0\Weather API Application.AssemblyInfoInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 14\Weather API Application\obj\Debug\net6.0\Weather API Application.AssemblyInfo.cs
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 14\Weather API Application\obj\Debug\net6.0\Weather API Application.csproj.CoreCompileInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 14\Weather API Application\obj\Debug\net6.0\Weather API Application.csproj.CopyComplete
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 14\Weather API Application\obj\Debug\net6.0\Weather API Application.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 14\Weather API Application\obj\Debug\net6.0\refint\Weather API Application.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 14\Weather API Application\obj\Debug\net6.0\Weather API Application.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 14\Weather API Application\obj\Debug\net6.0\Weather API Application.genruntimeconfig.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 14\Weather API Application\obj\Debug\net6.0\ref\Weather API Application.dll

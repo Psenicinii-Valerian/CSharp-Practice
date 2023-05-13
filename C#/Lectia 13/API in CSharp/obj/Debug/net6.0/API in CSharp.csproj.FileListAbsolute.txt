@@ -1,0 +1,17 @@
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\API in CSharp\bin\Debug\net6.0\API in CSharp.exe
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\API in CSharp\bin\Debug\net6.0\API in CSharp.deps.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\API in CSharp\bin\Debug\net6.0\API in CSharp.runtimeconfig.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\API in CSharp\bin\Debug\net6.0\API in CSharp.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\API in CSharp\bin\Debug\net6.0\API in CSharp.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\API in CSharp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\API in CSharp\obj\Debug\net6.0\API in CSharp.csproj.AssemblyReference.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\API in CSharp\obj\Debug\net6.0\API in CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\API in CSharp\obj\Debug\net6.0\API in CSharp.AssemblyInfoInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\API in CSharp\obj\Debug\net6.0\API in CSharp.AssemblyInfo.cs
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\API in CSharp\obj\Debug\net6.0\API in CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\API in CSharp\obj\Debug\net6.0\API in CSharp.csproj.CopyComplete
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\API in CSharp\obj\Debug\net6.0\API in CSharp.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\API in CSharp\obj\Debug\net6.0\refint\API in CSharp.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\API in CSharp\obj\Debug\net6.0\API in CSharp.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\API in CSharp\obj\Debug\net6.0\API in CSharp.genruntimeconfig.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\API in CSharp\obj\Debug\net6.0\ref\API in CSharp.dll

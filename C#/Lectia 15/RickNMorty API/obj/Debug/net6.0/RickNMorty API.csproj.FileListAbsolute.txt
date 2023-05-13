@@ -1,0 +1,17 @@
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\RickNMorty API\bin\Debug\net6.0\RickNMorty API.exe
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\RickNMorty API\bin\Debug\net6.0\RickNMorty API.deps.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\RickNMorty API\bin\Debug\net6.0\RickNMorty API.runtimeconfig.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\RickNMorty API\bin\Debug\net6.0\RickNMorty API.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\RickNMorty API\bin\Debug\net6.0\RickNMorty API.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\RickNMorty API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\RickNMorty API\obj\Debug\net6.0\RickNMorty API.csproj.AssemblyReference.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\RickNMorty API\obj\Debug\net6.0\RickNMorty API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\RickNMorty API\obj\Debug\net6.0\RickNMorty API.AssemblyInfoInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\RickNMorty API\obj\Debug\net6.0\RickNMorty API.AssemblyInfo.cs
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\RickNMorty API\obj\Debug\net6.0\RickNMorty API.csproj.CoreCompileInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\RickNMorty API\obj\Debug\net6.0\RickNMorty API.csproj.CopyComplete
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\RickNMorty API\obj\Debug\net6.0\RickNMorty API.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\RickNMorty API\obj\Debug\net6.0\refint\RickNMorty API.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\RickNMorty API\obj\Debug\net6.0\RickNMorty API.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\RickNMorty API\obj\Debug\net6.0\RickNMorty API.genruntimeconfig.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\RickNMorty API\obj\Debug\net6.0\ref\RickNMorty API.dll

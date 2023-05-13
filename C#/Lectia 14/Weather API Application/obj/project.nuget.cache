@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dtZB2IVr/eQo90l0VQLtMYhvDnnM7sUCMLDRLLaXPOF0FIptSpH59r5ej8BXDx4vGrdQEnpwHTlJyi4W8fji6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Valerian\\OneDrive\\Desktop\\STEP IT\\C#\\Lectia 14\\Weather API Application\\Weather API Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Valerian\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

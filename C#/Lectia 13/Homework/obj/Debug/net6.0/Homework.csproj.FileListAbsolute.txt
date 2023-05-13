@@ -1,0 +1,17 @@
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\Homework\bin\Debug\net6.0\Homework.exe
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\Homework\bin\Debug\net6.0\Homework.deps.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\Homework\bin\Debug\net6.0\Homework.runtimeconfig.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\Homework\bin\Debug\net6.0\Homework.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\Homework\bin\Debug\net6.0\Homework.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\Homework\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\Homework\obj\Debug\net6.0\Homework.csproj.AssemblyReference.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\Homework\obj\Debug\net6.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\Homework\obj\Debug\net6.0\Homework.AssemblyInfoInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\Homework\obj\Debug\net6.0\Homework.AssemblyInfo.cs
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\Homework\obj\Debug\net6.0\Homework.csproj.CoreCompileInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\Homework\obj\Debug\net6.0\Homework.csproj.CopyComplete
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\Homework\obj\Debug\net6.0\Homework.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\Homework\obj\Debug\net6.0\refint\Homework.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\Homework\obj\Debug\net6.0\Homework.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\Homework\obj\Debug\net6.0\Homework.genruntimeconfig.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 13\Homework\obj\Debug\net6.0\ref\Homework.dll

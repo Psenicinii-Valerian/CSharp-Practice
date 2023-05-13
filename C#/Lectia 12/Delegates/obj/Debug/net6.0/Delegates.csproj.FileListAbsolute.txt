@@ -1,0 +1,15 @@
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 12\Delegates\bin\Debug\net6.0\Delegates.exe
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 12\Delegates\bin\Debug\net6.0\Delegates.deps.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 12\Delegates\bin\Debug\net6.0\Delegates.runtimeconfig.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 12\Delegates\bin\Debug\net6.0\Delegates.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 12\Delegates\bin\Debug\net6.0\Delegates.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 12\Delegates\obj\Debug\net6.0\Delegates.csproj.AssemblyReference.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 12\Delegates\obj\Debug\net6.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 12\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfoInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 12\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfo.cs
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 12\Delegates\obj\Debug\net6.0\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 12\Delegates\obj\Debug\net6.0\Delegates.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 12\Delegates\obj\Debug\net6.0\refint\Delegates.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 12\Delegates\obj\Debug\net6.0\Delegates.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 12\Delegates\obj\Debug\net6.0\Delegates.genruntimeconfig.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 12\Delegates\obj\Debug\net6.0\ref\Delegates.dll

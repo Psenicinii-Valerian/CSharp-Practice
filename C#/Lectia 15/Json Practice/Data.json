@@ -1,0 +1,34 @@
+﻿{
+  "cars": [
+    {
+      "brand": "Honda",
+      "model": "Accord",
+      "year": 2022,
+      "color": "Blue",
+      "owner": {
+        "name": "John",
+        "age": 24
+      }
+    },
+    {
+      "brand": "BMW",
+      "model": "5",
+      "year": 1995,
+      "color": "Black",
+      "owner": {
+        "name": "Hans",
+        "age": 50
+      }
+    },
+    {
+      "brand": "Tesla",
+      "model": "Model S",
+      "year": 2022,
+      "color": "White",
+      "owner": {
+        "name": "Ed",
+        "age": 34
+      }
+    }
+  ]
+}

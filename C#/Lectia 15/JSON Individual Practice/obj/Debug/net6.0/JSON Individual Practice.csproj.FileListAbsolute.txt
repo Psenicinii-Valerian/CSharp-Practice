@@ -1,0 +1,17 @@
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\JSON Individual Practice\bin\Debug\net6.0\JSON Individual Practice.exe
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\JSON Individual Practice\bin\Debug\net6.0\JSON Individual Practice.deps.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\JSON Individual Practice\bin\Debug\net6.0\JSON Individual Practice.runtimeconfig.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\JSON Individual Practice\bin\Debug\net6.0\JSON Individual Practice.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\JSON Individual Practice\bin\Debug\net6.0\JSON Individual Practice.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\JSON Individual Practice\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\JSON Individual Practice\obj\Debug\net6.0\JSON Individual Practice.csproj.AssemblyReference.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\JSON Individual Practice\obj\Debug\net6.0\JSON Individual Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\JSON Individual Practice\obj\Debug\net6.0\JSON Individual Practice.AssemblyInfoInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\JSON Individual Practice\obj\Debug\net6.0\JSON Individual Practice.AssemblyInfo.cs
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\JSON Individual Practice\obj\Debug\net6.0\JSON Individual Practice.csproj.CoreCompileInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\JSON Individual Practice\obj\Debug\net6.0\JSON Individual Practice.csproj.CopyComplete
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\JSON Individual Practice\obj\Debug\net6.0\JSON Individual Practice.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\JSON Individual Practice\obj\Debug\net6.0\refint\JSON Individual Practice.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\JSON Individual Practice\obj\Debug\net6.0\JSON Individual Practice.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\JSON Individual Practice\obj\Debug\net6.0\JSON Individual Practice.genruntimeconfig.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\JSON Individual Practice\obj\Debug\net6.0\ref\JSON Individual Practice.dll

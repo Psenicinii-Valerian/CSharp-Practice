@@ -1,0 +1,84 @@
+﻿{
+  "cars": [
+    {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2022,
+      "price": 25000.99,
+      "isAvailable": true,
+      "features": [ "Bluetooth connectivity", "Backup camera", "Keyless entry" ],
+      "engine": {
+        "type": "Inline-4",
+        "displacement": 2.5,
+        "horsepower": 203
+      },
+      "countries": {
+        "available": [
+          {
+            "name": "United States",
+            "president": "Joe Biden",
+            "capital": "Washington, D.C.",
+            "continent": "North America"
+          },
+          {
+            "name": "Canada",
+            "president": "Justin Trudeau",
+            "capital": "Ottawa",
+            "continent": "North America"
+          },
+          {
+            "name": "Australia",
+            "president": "Scott Morrison",
+            "capital": "Canberra",
+            "continent": "Australia"
+          }
+        ]
+      },
+      "rating": {
+        "overall": 4.5,
+        "comfort": 4.2
+      },
+      "colors": [ "Silver", "Black", "White" ]
+    },
+    {
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2021,
+      "price": 22000.5,
+      "isAvailable": true,
+      "features": [ "Apple CarPlay", "Android Auto", "Lane departure warning" ],
+      "engine": {
+        "type": "Inline-4",
+        "displacement": 1.5,
+        "horsepower": 174
+      },
+      "countries": {
+        "available": [
+          {
+            "name": "United States",
+            "president": "Joe Biden",
+            "capital": "Washington, D.C.",
+            "continent": "North America"
+          },
+          {
+            "name": "United Kingdom",
+            "president": "Boris Johnson",
+            "capital": "London",
+            "continent": "Europe"
+          },
+          {
+            "name": "Germany",
+            "president": "Frank-Walter Steinmeier",
+            "capital": "Berlin",
+            "continent": "Europe"
+          }
+        ]
+      },
+      "rating": {
+        "overall": 4.3,
+        "comfort": 3.9
+      },
+      "colors": [ "Red", "Blue", "Gray" ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j2/mbBjt1OxBLKVmGQtA1oBFqhzaPyPY5ww0M8TjSV+7zToZdijj6FFSYAkKO91VtXi6yAdzlRhwJ+LgL5fz0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Valerian\\OneDrive\\Desktop\\STEP IT\\C#\\Lectia 13\\API in CSharp\\API in CSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Valerian\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

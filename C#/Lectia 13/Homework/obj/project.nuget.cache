@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2G9dZyl+YSzhiU2WEjH5Gt5xu3Pgq3lHDLuzoyJjYfz/bR3CAY0xbQ4E4UwrglUbwNmsVO4ni5632BUwfVKjGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Valerian\\OneDrive\\Desktop\\STEP IT\\C#\\Lectia 13\\Homework\\Homework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Valerian\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

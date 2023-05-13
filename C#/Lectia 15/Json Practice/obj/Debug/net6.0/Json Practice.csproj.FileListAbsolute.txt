@@ -1,0 +1,17 @@
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\Json Practice\bin\Debug\net6.0\Json Practice.exe
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\Json Practice\bin\Debug\net6.0\Json Practice.deps.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\Json Practice\bin\Debug\net6.0\Json Practice.runtimeconfig.json
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\Json Practice\bin\Debug\net6.0\Json Practice.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\Json Practice\bin\Debug\net6.0\Json Practice.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\Json Practice\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\Json Practice\obj\Debug\net6.0\Json Practice.csproj.AssemblyReference.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\Json Practice\obj\Debug\net6.0\Json Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\Json Practice\obj\Debug\net6.0\Json Practice.AssemblyInfoInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\Json Practice\obj\Debug\net6.0\Json Practice.AssemblyInfo.cs
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\Json Practice\obj\Debug\net6.0\Json Practice.csproj.CoreCompileInputs.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\Json Practice\obj\Debug\net6.0\Json Practice.csproj.CopyComplete
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\Json Practice\obj\Debug\net6.0\Json Practice.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\Json Practice\obj\Debug\net6.0\refint\Json Practice.dll
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\Json Practice\obj\Debug\net6.0\Json Practice.pdb
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\Json Practice\obj\Debug\net6.0\Json Practice.genruntimeconfig.cache
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\C#\Lectia 15\Json Practice\obj\Debug\net6.0\ref\Json Practice.dll
