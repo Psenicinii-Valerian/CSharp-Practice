@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phone Number Manager", "Phone Number Manager.csproj", "{01E8A9FE-E99D-4BAD-85A8-0C1914B5C96B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01E8A9FE-E99D-4BAD-85A8-0C1914B5C96B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01E8A9FE-E99D-4BAD-85A8-0C1914B5C96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01E8A9FE-E99D-4BAD-85A8-0C1914B5C96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01E8A9FE-E99D-4BAD-85A8-0C1914B5C96B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {302382AD-75BF-4E7B-83BD-E3EEEF866E9E}
+	EndGlobalSection
+EndGlobal
